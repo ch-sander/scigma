@@ -6,7 +6,7 @@
 _Temporary repository for work-in-progress research project_
 
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vS8hiKovMuY1qZ3TkBK2Wcllf0Z28F-Lm7QLcFrYLcZctP7G48SXGwV6L8EDo--d4NQDep_c49QMKkq/pub?w=480&h=360)
+![](https://docs.google.com/drawings/d/e/2PACX-1vS8hiKovMuY1qZ3TkBK2Wcllf0Z28F-Lm7QLcFrYLcZctP7G48SXGwV6L8EDo--d4NQDep_c49QMKkq/pub?w=360&h=360)
 
 
 ### Project Related Puclications
