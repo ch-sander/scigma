@@ -1,5 +1,4 @@
-# SCIDOG
-# Science and Dogma
+# Science and Dogma (SCIDOG)
 ## The Impact of Natural Knowledge on Western Christian Theology (1545–1789)
 ## by [Christoph Sander](https://ch-sander.github.io/) (c) 2023
 
