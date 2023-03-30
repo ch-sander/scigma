@@ -28,4 +28,4 @@ The project's first objective is to map the premodern roles played by ‘natural
 
 ### Project Related Sources
 
-_to be added soon_
+_[to be extended soon](https://api.zotero.org/groups/4929619/collections/UHPP9ERB/items/top?key=I6DnlyEKQcnCEagNxfDldORH&format=bib)_
