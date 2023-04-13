@@ -14,8 +14,9 @@ The project's first objective is to map how ‘natural knowledge’ informed pre
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vT25hK0FaRZIanJH109aJ8y-IivhI7kwpeIcAN2wkAYIZBap0v_bV0Fssd1Z7Iask1efYb9Ejpibm5G/pub?w=962&h=893)
 
-### Project Related Puclications
+### Project Related Puclications by Christoph Sander
 
+* Jesuit Science Revisited: Scope, Usefulness, and Challenges of a Historiographical Label](https://ch-sander.github.io/PDFs/Sander - 2022 - Jesuit Science.pdf). _Archivum Historicum Societatis Iesu_ 91, no. 182 (2022): 461–493.
 * [Die Außengrenzen des menschlichen Körpers. Das Wesen von Blut und Haaren in scholastischen Debatten der Frühen Neuzeit](https://ch-sander.github.io/PDFs/Sander%20-%202021%20-%20Die%20Aussengrenzen%20des%20menschlichen%20Korpers.pdf). In _De homine. Anthropologien in der Frühen Neuzeit_, edited by Sascha Salatowsky and Wilhelm Schmidt‐Biggemann, 181-215. Stuttgart: Steiner, 2021.
 * [Uniformitas et soliditas doctrinae. History, Topics and Impact of Jesuit Censorship in Philosophy (1550-1599)](https://ch-sander.github.io/PDFs/Sander%20-%202019%20-%20Uniformitas%20et%20soliditas%20doctrinae.pdf). In _Jesuit Philosophy on the Eve of Modernity_, edited by Cristiano Casalini, 34–71. Jesuit Studies 20. Leiden; Boston : Brill, 2019.
 * [Alfonso Salmerón über weltliche Wissenschaften im Dienste der Bibelexegese](https://ch-sander.github.io/PDFs/Sander%20-%202017%20-%20Alfonso%20Salmeron.pdf). In ‚Omne verum vero consonat’. Das Prinzip der Einheit der Wahrheit zwischen 5. Laterankonzil (1512‐1517) und Wissenschaftlicher Revolution. _Freiburger Zeitschrift für Philosophie und Theologie_ 64, no. 2 (2017): 344-360.
