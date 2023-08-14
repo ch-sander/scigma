@@ -33,9 +33,9 @@ for pdf_file in os.listdir(pdf_directory):
     if pdf_file.endswith('.pdf'):
         pdf_text, total_pages = read_pdf(pdf_directory + pdf_file)
         for search_word in search_words:
-            matches = process.extract(search_word, pdf_text, scorer=fuzz.token_sort_ratio)
-            for match, score in matches:
-                if score >= 30:
+            matches = process.extractBests(search_word, pdf_text, scorer=fuzz.token_sort_ratio)
+            for match, scorer in matches:
+                if scorer >= 75:
                     escaped_word = re.escape(match)
                     match_pattern = re.compile(escaped_word, re.IGNORECASE)
                     for match in re.finditer(match_pattern, pdf_text):
