@@ -34,4 +34,11 @@ The first goal of the project is to discover the multiple and changing ways in w
 
 ### Project Related Sources
 
-_[to be extended soon](https://api.zotero.org/groups/4929619/collections/UHPP9ERB/items/top?key=I6DnlyEKQcnCEagNxfDldORH&format=bib)_
+![](wordcloud_image.png)
+
+![](graph.png)
+
+[to be extended soon](output_table.html)
+
+
+<!-- _[to be extended soon]()_ https://api.zotero.org/groups/4929619/collections/UHPP9ERB/items/top?key=I6DnlyEKQcnCEagNxfDldORH&format=bib -->
