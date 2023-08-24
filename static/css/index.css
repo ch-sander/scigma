@@ -8,6 +8,15 @@ h1 {
   color: #4a86e8;            /* Schriftfarbe */
 }
 
+
+ul li::before {
+    content: "•";
+    color: orange;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
 h2 {
   font-size: 1.5em;            /* Schriftgröße */
   color: #ff9900;            /* Schriftfarbe */
