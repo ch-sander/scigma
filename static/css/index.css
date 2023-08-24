@@ -1,5 +1,6 @@
 body {
   font-family: 'Source Sans', sans-serif;
+  padding-top: 120px;
 }
 
 h1 {
@@ -28,12 +29,18 @@ h2 {
 }
 
 .banner {
-    display: flex; /* Flex-Container */
-    justify-content: center; /* Horizontal zentrieren */
-    align-items: center; /* Vertikal zentrieren */
-    height: 200px; /* Höhe des Containers */
-    background-color: #4a86e8; /* Hintergrundfarbe des Banners */
+  display: flex; /* Flex-Container */
+  justify-content: center; /* Horizontal zentrieren */
+  align-items: center; /* Vertikal zentrieren */
+  height: 120px; /* Höhe des Containers */
+  background-color: #4a86e8; /* Hintergrundfarbe des Banners */
+  position: fixed; /* Der Banner bleibt immer an derselben Position */
+  top: 0; /* Oben auf der Seite */
+  left: 0; /* Startet am linken Rand */
+  right: 0; /* Endet am rechten Rand */
+  z-index: 1000; /* Stellt sicher, dass der Banner über anderen Inhalten angezeigt wird */
 }
+
 
 .banner img {
     max-height: 100%; /* Höhe des Bildes begrenzen */
