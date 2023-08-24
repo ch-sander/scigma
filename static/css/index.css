@@ -17,6 +17,11 @@ ul li::before {
     margin-left: -1em;
 }
 
+ul {
+    list-style-type: none;  /* Entfernt die ursprünglichen Bullet Points */
+    padding-left: 1em;      /* Ein bisschen Abstand links, damit die orangenen Punkte sichtbar sind */
+}
+
 h2 {
   font-size: 1.5em;            /* Schriftgröße */
   color: #ff9900;            /* Schriftfarbe */
