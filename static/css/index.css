@@ -6,6 +6,7 @@ body {
 h1 {
   font-size: 3em;            /* Schriftgröße */
   color: #4a86e8;            /* Schriftfarbe */
+  font-weight: bolder;
 }
 
 
@@ -67,7 +68,6 @@ h2 {
 }
 
 .teaser {
-  font-family: 'Google Sans', sans-serif;
 }
 
 
