@@ -2,6 +2,15 @@ body {
   font-family: 'Source Sans', sans-serif;
 }
 
+h1 {
+  font-size: 4em;            /* Schriftgröße */
+  color: #4a86e8;            /* Schriftfarbe */
+}
+
+h21 {
+  font-size: 2em;            /* Schriftgröße */
+  color: #ff9900;            /* Schriftfarbe */
+}
 
 .footer .icon-link {
     font-size: 25px;
@@ -11,6 +20,7 @@ body {
 .link-block a {
     margin-top: 5px;
     margin-bottom: 5px;
+    color: #4a86e8; 
 }
 
 .dnerf {
