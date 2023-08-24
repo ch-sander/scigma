@@ -3,12 +3,12 @@ body {
 }
 
 h1 {
-  font-size: 4em;            /* Schriftgröße */
+  font-size: 3em;            /* Schriftgröße */
   color: #4a86e8;            /* Schriftfarbe */
 }
 
-h21 {
-  font-size: 2em;            /* Schriftgröße */
+h2 {
+  font-size: 1.5em;            /* Schriftgröße */
   color: #ff9900;            /* Schriftfarbe */
 }
 
