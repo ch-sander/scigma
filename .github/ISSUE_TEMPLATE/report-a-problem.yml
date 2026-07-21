@@ -1,0 +1,70 @@
+name: Report a problem
+description: Let us know about incorrect or missing data, or a problem with the software.
+title: "[Feedback]: "
+labels:
+  - user-feedback
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping us improve the project.
+
+        Please describe the problem in your own words. You do not need to provide technical details.
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What kind of problem did you find?
+      options:
+        - Incorrect information
+        - Missing item or information
+        - Software problem
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL or URI
+      description: Where did you encounter the problem?
+      placeholder: https://example.org/item/123
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem?
+      description: Please describe what you noticed.
+      placeholder: Tell us what seems incorrect, missing, or not working.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: Tell us what the correct information or expected behavior should be.
+      placeholder: The information should say... / I expected the page to...
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
+      description: Add anything else that might help us understand the problem.
+      placeholder: Examples, related links, screenshots, or other details.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have checked that this problem has not already been reported.
+          required: true
